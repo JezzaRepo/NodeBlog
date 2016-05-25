@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "public/stylesheets/compiled/main.css",
+    "inputFile": "public/stylesheets/main.scss"
+  },
+  {
+    "outputFile": "public/stylesheets/compiled/style.css",
+    "inputFile": "public/stylesheets/style.scss"
+  }
+]
